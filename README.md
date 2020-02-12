@@ -1,2 +1,2 @@
 # CppLinkedList
-An educational project that implements the Linked List data type in C++.
+An educational project that implements the Linked List data structure in C++.
